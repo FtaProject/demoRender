@@ -3,3 +3,4 @@ plotly
 pandas
 pip==23.3.1
 gunicorn
+flask==2.2.4
